@@ -1,0 +1,3 @@
+[submodule "src/test-submodule-sub"]
+	path = src/test-submodule-sub
+	url = https://github.com/Weiyu-Chen/test-submodule-sub.git
